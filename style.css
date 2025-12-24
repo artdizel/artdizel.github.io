@@ -6,3 +6,8 @@ h1 {
 p {
   font-size: 30px;
 }
+
+.info {
+  font-size: 25px;
+  font-weight: 900;
+}
